@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my stack**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Front end**
 
 - 📫 How to reach me **sapurnovdev@gmail.com**
 
