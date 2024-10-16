@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapurnovdev&label=Profile%20views&color=0e75b6&style=flat" alt="sapurnovdev" /> </p>
 
-- 🔭 I’m currently working on **my stack**
-
-- 🌱 I’m currently learning **Front end**
-
-- 📫 How to reach me **sapurnovdev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/saprunovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saprunovdev" height="30" width="40" /></a>
